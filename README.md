@@ -1,2 +1,2 @@
 # tailwind css
-practice with tailwind cdd
+practice with tailwind css
